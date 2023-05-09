@@ -6,6 +6,4 @@ v = pi*r**2*h
 print("The value of volume is", v)
 area=(2*pi*r*h) + (2*pi*r**2)
 print("The value of area is", area)
-total = v + area
-print("The Total is",total)
 
